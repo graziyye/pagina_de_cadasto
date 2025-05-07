@@ -52,6 +52,6 @@ input{
 .btn-entrar:hover{
     background: #ffede7;
     color: #f13c78;
-    transition: .4s;
+    transition: .4s ease-in-out;
     cursor: pointer;
 }
